@@ -3,6 +3,7 @@
 ![Project Status](https://img.shields.io/badge/status-done-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/IvanildoBarauna/ETL-awesome-api) ![Python Version](https://img.shields.io/badge/python-3.9-blue) ![GitHub Workflow Status](https://github.com/IvanildoBarauna/ETL-awesome-api/actions/workflows/CI-CD.yaml/badge.svg)
 [![codecov](https://codecov.io/gh/IvanildoBarauna/ETL-awesome-api/branch/main/graph/badge.svg?token=GEGNHFM6P)](https://codecov.io/gh/IvanildoBarauna/ETL-awesome-api)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMgobeaalcoba%2FETL-awesome-api&label=Visitors&countColor=%23263759)
 
 ## Code Coverage KPI Graph
 
